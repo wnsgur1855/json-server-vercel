@@ -1,3 +1,9 @@
 {
-  "REACT_APP_SERVER_URL": []
+  "todos": [
+    {
+      "title": "ㅎ",
+      "content": "ㅎ",
+      "id": 16
+    }
+  ]
 }
